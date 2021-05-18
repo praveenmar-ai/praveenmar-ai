@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @praveenmar-ai
-- 👀 I’m interested in Flask and AI
-- 🌱 I’m currently learning cyberseurity 
+- 👀 I’m interested in Flask and cybersecurity
+- 
 
 - 📫 How to reach me praveenmaroju217@gmail.com
 
